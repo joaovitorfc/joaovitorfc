@@ -23,6 +23,7 @@ Bem-vindo(a) ao meu GitHub! Estou em constante aprendizado e aqui você vai enco
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&background=000000)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&background=000000)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&background=000000)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&background=000000)
 
 ***
 
