@@ -21,20 +21,20 @@ Bem-vindo(a) ao meu GitHub! Estou em constante aprendizado e aqui você vai enco
 
 ## 📚 No momento estou aprendendo:
 ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&background=000000)
-![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&background=000000)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&background=000000)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&background=000000)
 
 ***
 
 # 🌱 Formação
-* Técnico em Desenvolvimento de Sistemas.
-* Estudante de Ciência da Computação.
+* Estudante de Ciência da Computação na Universidade de Marília.
+* Técnico em Desenvolvimento de Sistemas formado pela ETEC Monsenhor Antônio Magliano.
+
 
 
 ***
 
-# 💡 Vamos colaborar?
-Entre em contato comigo por aqui ou pelo LinkedIn para discutirmos ideias e projetos.
-
+# 💡 Entre em contato comigo
+freiresjv@gmail.com
+Tem alguma dúvida, sugestão ou proposta? Me envie uma mensagem!
 
