@@ -1,40 +1,58 @@
-# 👨🏻‍💻  João Vítor 
+# 👨🏻‍💻 João Vítor  
 
-Bem-vindo(a) ao meu GitHub! Estou em constante aprendizado e aqui você vai encontrar meus projetos e experiências ao longo dessa jornada. Sinta-se à vontade para explorar, sugerir melhorias ou até colaborar. Vamos aprender e crescer juntos.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3FA9F5&center=true&vCenter=true&width=600&lines=Bem-vindo(a)+ao+meu+GitHub!;Desenvolvedor+em+constante+aprendizado;Apaixonado+por+Tecnologia+e+Inovação;Sempre+buscando+novos+desafios+🚀" alt="Typing Animation">
+</p>
 
+✨ Aqui você encontrará meus projetos, estudos e experiências na área de tecnologia.  
+Fique à vontade para explorar, sugerir melhorias ou até colaborar.  
+Vamos aprender e crescer juntos!  
 
-![joaovitorfc GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovitorfc&theme=catppuccin_latte_icons=true)
-***
+---
 
-# 🔧 Ferramentas
-## 📚 Maior Domínio:
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&background=000000)
-![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&background=000000)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&background=000000)
+## 📊 Estatísticas
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitorfc&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorfc&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
 
+---
 
-## 📚 No momento estou aprendendo:
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&background=000000)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&background=000000)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&background=000000)
+## 🔧 Tecnologias e Ferramentas
 
-***
+### 🌐 Front-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,react,vue" />
+</p>
 
-# 🌱 Formação
-* Estudante de Ciência da Computação na Universidade de Marília.
-* Técnico em Desenvolvimento de Sistemas formado pela ETEC Monsenhor Antônio Magliano.
+### ⚙️ Back-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,c,r" />
+</p>
 
+### 🛠️ Ferramentas & Outros
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,netlify" />
+</p>
 
+---
 
-***
+## 🎓 Formação
+- 👨🏻‍🎓 Estudante de **Ciência da Computação** na **Universidade de Marília**  
+- 💻 **Técnico em Desenvolvimento de Sistemas** pela **ETEC Monsenhor Antônio Magliano**  
 
-# 💡 Entre em contato comigo
-freiresjv@gmail.com
-Tem alguma dúvida, sugestão ou proposta? Me envie uma mensagem!
+---
 
+## 📫 Contato
+<p align="center">
+  <a href="mailto:freiresjv@gmail.com"><img src="https://img.shields.io/badge/-Email-3FA9F5?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/joaovitorfc"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joaovitorfc"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3FA9F5&section=footer"/>
+</p>
